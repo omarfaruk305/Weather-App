@@ -1,0 +1,538 @@
+country,city,region,population
+America,New York City,New York (state),8804190
+America,Los Angeles,California,3898747
+America,Chicago,Illinois,2746388
+America,Houston,Texas,2304580
+America,Phoenix,Arizona,1608139
+America,Philadelphia,Pennsylvania,1603797
+America,San Antonio,Texas,1434625
+America,San Diego,California,1386932
+America,Dallas,Texas,1304379
+America,San Jose,California,1013240
+America,Austin,Texas,961855
+America,Jacksonville,Florida,949611
+America,Fort Worth,Texas,918915
+America,Columbus,Ohio,905748
+America,Indianapolis,Indiana,887642
+America,Charlotte,North Carolina,874579
+America,San Francisco,California,873965
+America,Seattle,Washington (state),737015
+America,Denver,Colorado,715522
+America,Washington,District of Columbia,689545
+America,Nashville,Tennessee,689447
+America,Oklahoma City,Oklahoma,681054
+America,El Paso,Texas,678815
+America,Boston,Massachusetts,675647
+America,Portland,Oregon,652503
+America,Las Vegas,Nevada,641903
+America,Detroit,Michigan,639111
+America,Memphis,Tennessee,633104
+America,Louisville,Kentucky,633045
+America,Baltimore,Maryland,585708
+America,Milwaukee,Wisconsin,577222
+America,Albuquerque,New Mexico,564559
+America,Tucson,Arizona,542629
+America,Fresno,California,542107
+America,Sacramento,California,524943
+America,Kansas City,Missouri,508090
+America,Mesa,Arizona,504258
+America,Atlanta,Georgia (U.S. state),498715
+America,Omaha,Nebraska,486051
+America,Colorado Springs,Colorado,478961
+America,Raleigh,North Carolina,467665
+America,Long Beach,California,466742
+America,Virginia Beach,Virginia,459470
+America,Miami,Florida,442241
+America,Oakland,California,440646
+America,Minneapolis,Minnesota,429954
+America,Tulsa,Oklahoma,413066
+America,Bakersfield,California,403455
+America,Wichita,Kansas,397532
+America,Arlington,Texas,394266
+America,Aurora,Colorado,386261
+America,Tampa,Florida,384959
+America,New Orleans,Louisiana,383997
+America,Cleveland,Ohio,372624
+America,Honolulu,Hawaii,350964
+America,Anaheim,California,346824
+America,Lexington,Kentucky,322570
+America,Stockton,California,320804
+America,Corpus Christi,Texas,317863
+America,Henderson,Nevada,317610
+America,Riverside,California,314998
+America,Newark,New Jersey,311549
+America,Saint Paul,Minnesota,311527
+America,Santa Ana,California,310227
+America,Cincinnati,Ohio,309317
+America,Irvine,California,307670
+America,Orlando,Florida,307573
+America,Pittsburgh,Pennsylvania,302971
+America,St. Louis,Missouri,301578
+America,Greensboro,North Carolina,299035
+America,Jersey City,New Jersey,292449
+America,Anchorage,Alaska,291247
+America,Lincoln,Nebraska,291082
+America,Plano,Texas,285494
+America,Durham,North Carolina,283506
+America,Buffalo,New York (state),278349
+America,Chandler,Arizona,275987
+America,Chula Vista,California,275487
+America,Toledo,Ohio,270871
+America,Madison,Wisconsin,269840
+America,Gilbert,Arizona,267918
+America,Reno,Nevada,264165
+America,Fort Wayne,Indiana,263886
+America,North Las Vegas,Nevada,262527
+America,St. Petersburg,Florida,258308
+America,Lubbock,Texas,257141
+America,Irving,Texas,256684
+America,Laredo,Texas,255205
+America,Winston-Salem,North Carolina,249545
+America,Chesapeake,Virginia,249422
+America,Glendale,Arizona,248325
+America,Garland,Texas,246018
+America,Scottsdale,Arizona,241361
+America,Norfolk,Virginia,238005
+America,Boise,Idaho,235684
+America,Fremont,California,230504
+America,Spokane,Washington (state),228989
+America,Santa Clarita,California,228673
+America,Baton Rouge,Louisiana,227470
+America,Richmond,Virginia,226610
+America,Hialeah,Florida,223109
+America,San Bernardino,California,222101
+America,Tacoma,Washington (state),219346
+America,Modesto,California,218464
+America,Huntsville,Alabama,215006
+America,Des Moines,Iowa,214133
+America,Yonkers,New York (state),211569
+America,Rochester,New York (state),211328
+America,Moreno Valley,California,208634
+America,Fayetteville,North Carolina,208501
+America,Fontana,California,208393
+America,Columbus,Georgia (U.S. state),206922
+America,Worcester,Massachusetts,206518
+America,Port St. Lucie,Florida,204851
+America,Little Rock,Arkansas,202591
+America,Augusta,Georgia (U.S. state),202081
+America,Oxnard,California,202063
+America,Birmingham,Alabama,200733
+America,Montgomery,Alabama,200603
+America,Frisco,Texas,200509
+America,Amarillo,Texas,200393
+America,Salt Lake City,Utah,199723
+America,Grand Rapids,Michigan,198917
+America,Huntington Beach,California,198711
+America,Overland Park,Kansas,197238
+America,Glendale,California,196543
+America,Tallahassee,Florida,196169
+America,Grand Prairie,Texas,196100
+America,McKinney,Texas,195308
+America,Cape Coral,Florida,194016
+America,Sioux Falls,South Dakota,192517
+America,Peoria,Arizona,190985
+America,Providence,Rhode Island,190934
+America,Vancouver,Washington (state),190915
+America,Knoxville,Tennessee,190740
+America,Akron,Ohio,190469
+America,Shreveport,Louisiana,187593
+America,Mobile,Alabama,187041
+America,Brownsville,Texas,186738
+America,Newport News,Virginia,186247
+America,Fort Lauderdale,Florida,182760
+America,Chattanooga,Tennessee,181099
+America,Tempe,Arizona,180587
+America,Aurora,Illinois,180542
+America,Santa Rosa,California,178127
+America,Eugene,Oregon,176654
+America,Elk Grove,California,176124
+America,Salem,Oregon,175535
+America,Ontario,California,175265
+America,Cary,North Carolina,174721
+America,Rancho Cucamonga,California,174453
+America,Oceanside,California,174068
+America,Lancaster,California,173516
+America,Garden Grove,California,171949
+America,Pembroke Pines,Florida,171178
+America,Fort Collins,Colorado,169810
+America,Palmdale,California,169450
+America,Springfield,Missouri,169176
+America,Clarksville,Tennessee,166722
+America,Salinas,California,163542
+America,Hayward,California,162954
+America,Paterson,New Jersey,159732
+America,Alexandria,Virginia,159467
+America,Macon,Georgia (U.S. state),157346
+America,Corona,California,157136
+America,Kansas City,Kansas,156607
+America,Lakewood,Colorado,155984
+America,Springfield,Massachusetts,155929
+America,Sunnyvale,California,155805
+America,Jackson,Mississippi,153701
+America,Killeen,Texas,153095
+America,Hollywood,Florida,153067
+America,Murfreesboro,Tennessee,152769
+America,Pasadena,Texas,151950
+America,Bellevue,Washington (state),151854
+America,Pomona,California,151713
+America,Escondido,California,151038
+America,Joliet,Illinois,150362
+America,Charleston,South Carolina,150227
+America,Mesquite,Texas,150108
+America,Naperville,Illinois,149540
+America,Rockford,Illinois,148655
+America,Bridgeport,Connecticut,148654
+America,Syracuse,New York (state),148620
+America,Savannah,Georgia (U.S. state),147780
+America,Roseville,California,147773
+America,Torrance,California,147067
+America,Fullerton,California,143617
+America,Surprise,Arizona,143148
+America,McAllen,Texas,142210
+America,Thornton,Colorado,141867
+America,Visalia,California,141384
+America,Olathe,Kansas,141290
+America,Gainesville,Florida,141085
+America,West Valley City,Utah,140230
+America,Orange,California,139911
+America,Denton,Texas,139869
+America,Warren,Michigan,139387
+America,Pasadena,California,138699
+America,Waco,Texas,138486
+America,Cedar Rapids,Iowa,137710
+America,Dayton,Ohio,137644
+America,Elizabeth,New Jersey,137298
+America,Hampton,Virginia,137148
+America,Columbia,South Carolina,136632
+America,Kent,Washington (state),136588
+America,Stamford,Connecticut,135470
+America,Lakewood Township,New Jersey,135158
+America,Victorville,California,134810
+America,Miramar,Florida,134721
+America,Coral Springs,Florida,134394
+America,Sterling Heights,Michigan,134346
+America,New Haven,Connecticut,134023
+America,Carrollton,Texas,133434
+America,Midland,Texas,132524
+America,Norman,Oklahoma,128026
+America,Santa Clara,California,127647
+America,Athens,Georgia (U.S. state),127315
+America,Thousand Oaks,California,126966
+America,Topeka,Kansas,126587
+America,Simi Valley,California,126356
+America,Columbia,Missouri,126254
+America,Vallejo,California,126090
+America,Fargo,North Dakota,125990
+America,Allentown,Pennsylvania,125845
+America,Pearland,Texas,125828
+America,Concord,California,125410
+America,Abilene,Texas,125182
+America,Arvada,Colorado,124402
+America,Berkeley,California,124321
+America,Ann Arbor,Michigan,123851
+America,Independence,Missouri,123011
+America,Rochester,Minnesota,121395
+America,Lafayette,Louisiana,121374
+America,Hartford,Connecticut,121054
+America,College Station,Texas,120511
+America,Clovis,California,120124
+America,Fairfield,California,119881
+America,Palm Bay,Florida,119760
+America,Richardson,Texas,119469
+America,Round Rock,Texas,119468
+America,Cambridge,Massachusetts,118403
+America,Meridian,Idaho,117635
+America,West Palm Beach,Florida,117415
+America,Evansville,Indiana,117298
+America,Clearwater,Florida,117292
+America,Billings,Montana,117116
+America,West Jordan,Utah,116961
+America,Richmond,California,116448
+America,Westminster,Colorado,116317
+America,Manchester,New Hampshire,115644
+America,Lowell,Massachusetts,115554
+America,Wilmington,North Carolina,115451
+America,Antioch,California,115291
+America,Beaumont,Texas,115282
+America,Provo,Utah,115162
+America,North Charleston,South Carolina,114852
+America,Elgin,Illinois,114797
+America,Carlsbad,California,114746
+America,Odessa,Texas,114428
+America,Waterbury,Connecticut,114403
+America,Springfield,Illinois,114394
+America,League City,Texas,114392
+America,Downey,California,114355
+America,Gresham,Oregon,114247
+America,High Point,North Carolina,114059
+America,Broken Arrow,Oklahoma,113540
+America,Peoria,Illinois,113150
+America,Lansing,Michigan,112644
+America,Lakeland,Florida,112641
+America,Pompano Beach,Florida,112046
+America,Costa Mesa,California,111918
+America,Pueblo,Colorado,111876
+America,Lewisville,Texas,111822
+America,Miami Gardens,Florida,111640
+America,Las Cruces,New Mexico,111385
+America,Sugar Land,Texas,111026
+America,Murrieta,California,110949
+America,Ventura,California,110763
+America,Everett,Washington (state),110629
+America,Temecula,California,110003
+America,Dearborn,Michigan,109976
+America,Santa Maria,California,109707
+America,West Covina,California,109501
+America,El Monte,California,109450
+America,Greeley,Colorado,108795
+America,Sparks,Nevada,108445
+America,Centennial,Colorado,108418
+America,Boulder,Colorado,108250
+America,Sandy Springs,Georgia (U.S. state),108080
+America,Inglewood,California,107762
+America,Edison,New Jersey,107588
+America,South Fulton,Georgia (U.S. state),107436
+America,Green Bay,Wisconsin,107395
+America,Burbank,California,107337
+America,Renton,Washington (state),106785
+America,Hillsboro,Oregon,106447
+America,El Cajon,California,106215
+America,Tyler,Texas,105995
+America,Davie,Florida,105691
+America,San Mateo,California,105661
+America,Brockton,Massachusetts,105643
+America,Concord,North Carolina,105240
+America,Jurupa Valley,California,105053
+America,Daly City,California,104901
+America,Allen,Texas,104627
+America,Rio Rancho,New Mexico,104046
+America,Rialto,California,104026
+America,Woodbridge Township,New Jersey,103639
+America,South Bend,Indiana,103453
+America,Spokane Valley,Washington (state),102976
+America,Norwalk,California,102773
+America,Menifee,California,102527
+America,Vacaville,California,102386
+America,Wichita Falls,Texas,102316
+America,Davenport,Iowa,101724
+America,Quincy,Massachusetts,101636
+America,Chico,California,101475
+America,Lynn,Massachusetts,101253
+America,Lees Summit,Missouri,101108
+America,New Bedford,Massachusetts,101079
+America,Federal Way,Washington (state),101030
+America,Clinton Township,Michigan,100513
+America,Edinburg,Texas,100243
+America,Nampa,Idaho,100200
+America,Roanoke,Virginia,100011
+Turkey,İstanbul,Marmara Bölgesi,15462452
+Turkey,Ankara,İç Anadolu Bölgesi,5663322
+Turkey,İzmir,Ege Bölgesi,4394694
+Turkey,Bursa,Marmara Bölgesi,3101833
+Turkey,Antalya,Akdeniz Bölgesi,2548308
+Turkey,Adana,Akdeniz Bölgesi,2258718
+Turkey,Konya,İç Anadolu Bölgesi,2250020
+Turkey,Şanlıurfa,Güneydoğu Anadolu Bölgesi,2118718
+Turkey,Gaziantep,Güneydoğu Anadolu Bölgesi,2101157
+Turkey,Kocaeli,Marmara Bölgesi,1997258
+Turkey,Mersin,Akdeniz Bölgesi,1868757
+Turkey,Diyarbakır,Güneydoğu Anadolu Bölgesi,1783431
+Turkey,Hatay,Akdeniz Bölgesi,1659320
+Turkey,Manisa,Ege Bölgesi,1450616
+Turkey,Kayseri,İç Anadolu Bölgesi,1421455
+Turkey,Samsun,Karadeniz Bölgesi,1356079
+Turkey,Balıkesir,Marmara Bölgesi,1240285
+Turkey,Kahramanmaraş,Akdeniz Bölgesi,1168163
+Turkey,Van,Doğu Anadolu Bölgesi,1149342
+Turkey,Aydın,Ege Bölgesi,1119084
+Turkey,Tekirdağ,Marmara Bölgesi,1081065
+Turkey,Sakarya,Marmara Bölgesi,1042649
+Turkey,Denizli,Ege Bölgesi,1040915
+Turkey,Muğla,Ege Bölgesi,1000773
+Turkey,Eskişehir,İç Anadolu Bölgesi,888828
+Turkey,Mardin,Güneydoğu Anadolu Bölgesi,854716
+Turkey,Trabzon,Karadeniz Bölgesi,811901
+Turkey,Malatya,Doğu Anadolu Bölgesi,806156
+Turkey,Ordu,Karadeniz Bölgesi,761400
+Turkey,Erzurum,Doğu Anadolu Bölgesi,758279
+Turkey,Afyonkarahisar,Ege Bölgesi,736912
+Turkey,Sivas,İç Anadolu Bölgesi,635889
+Turkey,Adıyaman,Güneydoğu Anadolu Bölgesi,632459
+Turkey,Batman,Güneydoğu Anadolu Bölgesi,620278
+Turkey,Tokat,Karadeniz Bölgesi,597861
+Turkey,Zonguldak,Karadeniz Bölgesi,591204
+Turkey,Elazığ,Doğu Anadolu Bölgesi,587960
+Turkey,Kütahya,Ege Bölgesi,576688
+Turkey,Osmaniye,Akdeniz Bölgesi,548556
+Turkey,Çanakkale,Marmara Bölgesi,541548
+Turkey,Şırnak,Doğu Anadolu Bölgesi,537762
+Turkey,Ağrı,Doğu Anadolu Bölgesi,535435
+Turkey,Çorum,Karadeniz Bölgesi,530126
+Turkey,Giresun,Karadeniz Bölgesi,448721
+Turkey,Isparta,Akdeniz Bölgesi,440304
+Turkey,Aksaray,İç Anadolu Bölgesi,423011
+Turkey,Yozgat,İç Anadolu Bölgesi,419095
+Turkey,Muş,Doğu Anadolu Bölgesi,411117
+Turkey,Edirne,Marmara Bölgesi,407763
+Turkey,Düzce,Karadeniz Bölgesi,395679
+Turkey,Kastamonu,Karadeniz Bölgesi,376377
+Turkey,Uşak,Ege Bölgesi,269433
+Turkey,Niğde,İç Anadolu Bölgesi,362071
+Turkey,Kırklareli,Marmara Bölgesi,361737
+Turkey,Bitls,Doğu Anadolu Bölgesi,350994
+Turkey,Rize,Karadeniz Bölgesi,344359
+Turkey,Amasya,Karadeniz Bölgesi,335494
+Turkey,Siirt,Güneydoğu Anadolu Bölgesi,331070
+Turkey,Bolu,Karadeniz Bölgesi,314802
+Turkey,Nevşehir,İç Anadolu Bölgesi,304962
+Turkey,Kars,Doğu Anadolu Bölgesi,284923
+Turkey,Bingöl,Doğu Anadolu Bölgesi,281768
+Turkey,Hakkari,Doğu Anadolu Bölgesi,280514
+Turkey,Kırıkkale,İç Anadolu Bölgesi,278703
+Turkey,Yalova,Marmara Bölgesi,276050
+Turkey,Burdur,Akdeniz Bölgesi,267092
+Turkey,Karaman,İç Anadolu Bölgesi,254919
+Turkey,Karabük,Karadeniz Bölgesi,243614
+Turkey,Kırşehir,İç Anadolu Bölgesi,243042
+Turkey,Erzincan,Doğu Anadolu Bölgesi,234431
+Turkey,Bilecik,Marmara Bölgesi,218717
+Turkey,Sinop,Karadeniz Bölgesi,216460
+Turkey,Iğdır,Doğu Anadolu Bölgesi,201314
+Turkey,Bartın,Karadeniz Bölgesi,198979
+Turkey,Çankırı,İç Anadolu Bölgesi,192428
+Turkey,Artvin,Karadeniz Bölgesi,169501
+Turkey,Kilis,Güneydoğu Anadolu Bölgesi,142792
+Turkey,Gümüşane,Karadeniz Bölgesi,141702
+Turkey,Ardahan,Doğu Anadolu Bölgesi,96161
+Turkey,Tunceli,Doğu Anadolu Bölgesi,83443
+Turkey,Bayburt,Karadeniz Bölgesi,81910
+Netherlands,Delden,Overijssel,7390
+Netherlands,Buren,Gelderland,2620
+Netherlands,Bronkhorst,Gelderland,90
+Netherlands,Brouwershaven,Zeeland,1250
+Netherlands,Bredevoort,Gelderland,1450
+Netherlands,Bolsward,Friesland,10085
+Netherlands,Biervliet,Zeeland,1550
+Netherlands,Bergen op Zoom,Noord-Brabant,53245
+Netherlands,Borculo,Gelderland,7775
+Netherlands,Breda,Noord-Brabant,150210
+Netherlands,Zutphen,Gelderland,39705
+Netherlands,Woudrichem,Noord-Brabant,4680
+Netherlands,Zevenaar,Gelderland,25855
+Netherlands,Zaltbommel,Gelderland,13070
+Netherlands,Zaandam,Noord-Holland,78705
+Netherlands,Workum,Friesland,4475
+Netherlands,Zierikzee,Zeeland,11630
+Netherlands,Zevenbergen,Noord-Brabant,14530
+Netherlands,Winschoten,Groningen,17750
+Netherlands,Winkel,Noord-Holland,3400
+Netherlands,Willemstad,Noord-Brabant,3095
+Netherlands,Wilsum,Overijssel,870
+Netherlands,Wieringen,Noord-Holland,8585
+Netherlands,Westwoud,Noord-Holland,1815
+Netherlands,Westkapelle,Zeeland,2630
+Netherlands,Weert,Limburg,44875
+Netherlands,Waalwijk,Noord-Brabant,33880
+Netherlands,Vreeland,Utrecht,1875
+Netherlands,Wessem,Limburg,2030
+Netherlands,Vollenhove,Overijssel,4295
+Netherlands,Vianen,Utrecht,16455
+Netherlands,Venlo,Limburg,68575
+Netherlands,Veere,Zeeland,1625
+Netherlands,Valkenburg,Limburg,10500
+Netherlands,Tilburg,Noord-Brabant,199185
+Netherlands,Thorn,Limburg,2490
+Netherlands,Tholen,Zeeland,8175
+Netherlands,Terneuzen,Zeeland,25405
+Netherlands,Terborg,Gelderland,4690
+Netherlands,Susteren,Limburg,7995
+Netherlands,Steenwijk,Overijssel,17115
+Netherlands,Steenbergen,Noord-Brabant,13340
+Netherlands,Stavoren,Friesland,965
+Netherlands,Staverden,Gelderland,30
+Netherlands,Sneek,Friesland,33590
+Netherlands,Sluis,Zeeland,2350
+Netherlands,Sloten,Friesland,710
+Netherlands,Sittard,Limburg,36895
+Netherlands,Sint-Oedenrode,Noord-Brabant,18360
+Netherlands,Sint Anna ter Muiden,Zeeland,50
+Netherlands,Schoonhoven,Zuid-Holland,13230
+Netherlands,Sint-Maartensdijk,Zeeland,3440
+Netherlands,Situering,Noord-Brabant,111025
+Netherlands,s-Heerenberg,Gelderland,8635
+Netherlands,Schagen,Noord-Holland,19025
+Netherlands,Roermond,Limburg,41975
+Netherlands,Rijssen,Overijssel,28815
+Netherlands,Rotterdam,Zuid-Holland,588490
+Netherlands,Ravenstein,Noord-Brabant,3060
+Netherlands,Philippine,Zeeland,2085
+Netherlands,Oss,Noord-Brabant,58550
+Netherlands,Ootmarsum,Overijssel,4455
+Netherlands,Oosterhout,Noord-Brabant,50720
+Netherlands,Oostburg,Zeeland,4650
+Netherlands,Ommen,Overijssel,12835
+Netherlands,s-Gravenzande,Zuid-Holland,22425
+Netherlands,Oisterwijk,Noord-Brabant,20210
+Netherlands,Nijkerk,Gelderland,29900
+Netherlands,Nieuwstadt,Limburg,3260
+Netherlands,Naarden,Noord-Holland,17555
+Netherlands,Nieuwpoort,Zuid-Holland,1410
+Netherlands,Monnickendam,Noord-Holland,9440
+Netherlands,Montfort,Limburg,3130
+Netherlands,Middelburg,Zeeland,42190
+Netherlands,Muiden,Noord-Holland,4055
+Netherlands,Maasbommel,Gelderland,1345
+Netherlands,Lochem,Gelderland,13545
+Netherlands,Medemblik,Noord-Holland,8505
+Netherlands,Leerdam,Utrecht,18945
+Netherlands,Kessel,Limburg,4155
+Netherlands,Klundert,Noord-Brabant,5890
+Netherlands,Kampen,Overijssel,37595
+Netherlands,Laag-Keppel,Gelderland,580
+Netherlands,IJzendijke,Zeeland,2470
+Netherlands,IJlst,Friesland,3015
+Netherlands,Hulst,Zeeland,10985
+Netherlands,Leeuwarden,Friesland,93765
+Netherlands,Hindeloopen,Friesland,850
+Netherlands,Heukelum,Gelderland,2280
+Netherlands,Heusden,Noord-Brabant,1325
+Netherlands,Huissen,Gelderland,19570
+Netherlands,Heenvliet,Zuid-Holland,2475
+Netherlands,Hem,Noord-Holland,1550
+Netherlands,Megen,Noord-Brabant,1740
+Netherlands,Kortgene,Zeeland,1910
+Netherlands,Hasselt,Overijssel,7385
+Netherlands,Harlingen,Friesland,14810
+Netherlands,Hardenberg,Overijssel,19675
+Netherlands,Haastrecht,Zuid-Holland,4370
+Netherlands,Groenlo,Gelderland,9860
+Netherlands,Grave,Noord-Brabant,8580
+Netherlands,Gramsbergen,Overijssel,3180
+Netherlands,Grafhorst,Overijssel,1030
+Netherlands,Groningen,Groningen,202900
+Netherlands,Goor,Overijssel,12155
+Netherlands,Goes,Zeeland,28770
+Netherlands,Goedereede,Zuid-Holland,2295
+Netherlands,Gennep,Limburg,9285
+Netherlands,Genemuiden,Overijssel,10370
+Netherlands,Gendt,Gelderland,7285
+Netherlands,Geervliet,Zuid-Holland,1620
+Netherlands,Geertruidenberg,Noord-Brabant,7035
+Netherlands,Franeker,Friesland,12780
+Netherlands,Elburg,Gelderland,12275
+Netherlands,Edam,Noord-Holland,6900
+Netherlands,Echt,Limburg,14675
+Netherlands,Domburg,Zeeland,1660
+Netherlands,Doetinchem,Gelderland,45650
+Netherlands,Dokkum,Friesland,12745
+Netherlands,Deventer,Overijssel,81545
+Netherlands,Batenburg,Gelderland,650
+Netherlands,Asperen,Gelderland,3205
+Netherlands,Austerlitz,Utrecht,1705
+Netherlands,Arnemuiden,Zeeland,5360
+Netherlands,Alkmaar,Noord-Holland,91035
+Netherlands,Aardenburg,Zeeland,2520
+Netherlands,Axel,Zeeland,7880
+Netherlands,Abbekerk,Noord-Holland,2070
+Netherlands,Ammerstol,Zuid-Holland,1715
+Netherlands,Ameide,Utrecht,3880
