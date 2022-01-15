@@ -2,7 +2,32 @@ from email import header
 from tabnanny import check
 import psycopg2
 import csv
+"""
+CREATE TABLE "country" (
+  "id" serial,
+  "name" varchar(50),
+  PRIMARY KEY ("id")
+);
 
+CREATE TABLE "region" (
+  "id" serial,
+  "country_id" int,
+  "name" varchar(50),
+  PRIMARY KEY ("id"),
+  FOREIGN KEY ("country_id") REFERENCES "country"("id")
+);
+
+CREATE TABLE "city" (
+  "id" serial,
+  "region_id" int,
+  "name" varchar(50),
+  "population" int,
+  PRIMARY KEY ("id"),
+  FOREIGN KEY ("region_id") REFERENCES "region"("id")
+);
+
+
+"""
 conn = psycopg2.connect(
     host="localhost",
     database="weather_application",
@@ -23,6 +48,7 @@ def insert_country(country_name):
     else:
         return check_country[0]
 
+
 def insert_region(country_id, region_name, country_name):
     cur.execute(f"""select id from region where name = '{region_name}'""")
     check_region = cur.fetchone()
@@ -32,7 +58,7 @@ def insert_region(country_id, region_name, country_name):
         conn.commit()
         region_id = cur.fetchone()[0]
         return (region_id)
-    else : 
+    else:
         return check_region[0]
 
 
@@ -51,9 +77,11 @@ def insert_city(region_id, city_name, population, region_name):
         conn.commit()
         city_id = cur.fetchone()[0]
         return (city_id)
+
+
 def insert_alldata():
 
-    with open ('data.csv','r') as f : 
+    with open('data.csv', 'r') as f:
         variables = csv.reader(f)
         next(variables)
 
@@ -64,21 +92,11 @@ def insert_alldata():
             population = variable[3]
             country_id = insert_country(country_name)
             region_id = insert_region(country_id, region_name, country_name)
-            city_id = insert_city(region_id, city_name, population, region_name)
-
+            city_id = insert_city(region_id, city_name,
+                                  population, region_name)
 
 
 try:
     cur = conn.cursor()
 except (Exception) as error:
     print(error)
-
-
-cur.execute("""select * from country as c
-join region as r on c.id = r.country_id
-join city as ci on ci.region_id = r.id
-order by population desc""" )
-
-info = cur.fetchall()
-print(info[0])
-
