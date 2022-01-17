@@ -2,6 +2,7 @@ from email import header
 from tabnanny import check
 import psycopg2
 import csv
+
 """
 CREATE TABLE "country" (
   "id" serial,
@@ -96,7 +97,31 @@ def insert_alldata():
                                   population, region_name)
 
 
+def get_tables(country_name):
+    cur.execute(f"""select ci.name,r.name,ci.population from country as c 
+join region as r on c.id = r.country_id
+join city as ci on r.id = ci.region_id
+where c.name = '{country_name}'
+order by population desc """)
+    info = cur.fetchall()
+    return info
+
+
+def get_city_information(city_name):
+    cur.execute(f"""select ci.name,r.name,ci.population from country as c 
+join region as r on c.id = r.country_id
+join city as ci on r.id = ci.region_id
+where ci.name = '{city_name}'
+""")
+    info = cur.fetchall()
+    return info
+
+
+insert_alldata()
+
 try:
     cur = conn.cursor()
 except (Exception) as error:
     print(error)
+
+print(get_city_information("Ankara"))

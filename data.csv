@@ -325,214 +325,261 @@ America,Clinton Township,Michigan,100513
 America,Edinburg,Texas,100243
 America,Nampa,Idaho,100200
 America,Roanoke,Virginia,100011
-Turkey,İstanbul,Marmara Bölgesi,15462452
-Turkey,Ankara,İç Anadolu Bölgesi,5663322
-Turkey,İzmir,Ege Bölgesi,4394694
-Turkey,Bursa,Marmara Bölgesi,3101833
-Turkey,Antalya,Akdeniz Bölgesi,2548308
-Turkey,Adana,Akdeniz Bölgesi,2258718
-Turkey,Konya,İç Anadolu Bölgesi,2250020
-Turkey,Şanlıurfa,Güneydoğu Anadolu Bölgesi,2118718
-Turkey,Gaziantep,Güneydoğu Anadolu Bölgesi,2101157
-Turkey,Kocaeli,Marmara Bölgesi,1997258
-Turkey,Mersin,Akdeniz Bölgesi,1868757
-Turkey,Diyarbakır,Güneydoğu Anadolu Bölgesi,1783431
-Turkey,Hatay,Akdeniz Bölgesi,1659320
-Turkey,Manisa,Ege Bölgesi,1450616
-Turkey,Kayseri,İç Anadolu Bölgesi,1421455
-Turkey,Samsun,Karadeniz Bölgesi,1356079
-Turkey,Balıkesir,Marmara Bölgesi,1240285
-Turkey,Kahramanmaraş,Akdeniz Bölgesi,1168163
-Turkey,Van,Doğu Anadolu Bölgesi,1149342
-Turkey,Aydın,Ege Bölgesi,1119084
-Turkey,Tekirdağ,Marmara Bölgesi,1081065
-Turkey,Sakarya,Marmara Bölgesi,1042649
-Turkey,Denizli,Ege Bölgesi,1040915
-Turkey,Muğla,Ege Bölgesi,1000773
-Turkey,Eskişehir,İç Anadolu Bölgesi,888828
-Turkey,Mardin,Güneydoğu Anadolu Bölgesi,854716
-Turkey,Trabzon,Karadeniz Bölgesi,811901
-Turkey,Malatya,Doğu Anadolu Bölgesi,806156
-Turkey,Ordu,Karadeniz Bölgesi,761400
-Turkey,Erzurum,Doğu Anadolu Bölgesi,758279
-Turkey,Afyonkarahisar,Ege Bölgesi,736912
-Turkey,Sivas,İç Anadolu Bölgesi,635889
-Turkey,Adıyaman,Güneydoğu Anadolu Bölgesi,632459
-Turkey,Batman,Güneydoğu Anadolu Bölgesi,620278
-Turkey,Tokat,Karadeniz Bölgesi,597861
-Turkey,Zonguldak,Karadeniz Bölgesi,591204
-Turkey,Elazığ,Doğu Anadolu Bölgesi,587960
-Turkey,Kütahya,Ege Bölgesi,576688
-Turkey,Osmaniye,Akdeniz Bölgesi,548556
-Turkey,Çanakkale,Marmara Bölgesi,541548
-Turkey,Şırnak,Doğu Anadolu Bölgesi,537762
-Turkey,Ağrı,Doğu Anadolu Bölgesi,535435
-Turkey,Çorum,Karadeniz Bölgesi,530126
-Turkey,Giresun,Karadeniz Bölgesi,448721
-Turkey,Isparta,Akdeniz Bölgesi,440304
-Turkey,Aksaray,İç Anadolu Bölgesi,423011
-Turkey,Yozgat,İç Anadolu Bölgesi,419095
-Turkey,Muş,Doğu Anadolu Bölgesi,411117
-Turkey,Edirne,Marmara Bölgesi,407763
-Turkey,Düzce,Karadeniz Bölgesi,395679
-Turkey,Kastamonu,Karadeniz Bölgesi,376377
-Turkey,Uşak,Ege Bölgesi,269433
-Turkey,Niğde,İç Anadolu Bölgesi,362071
-Turkey,Kırklareli,Marmara Bölgesi,361737
-Turkey,Bitls,Doğu Anadolu Bölgesi,350994
-Turkey,Rize,Karadeniz Bölgesi,344359
-Turkey,Amasya,Karadeniz Bölgesi,335494
-Turkey,Siirt,Güneydoğu Anadolu Bölgesi,331070
-Turkey,Bolu,Karadeniz Bölgesi,314802
-Turkey,Nevşehir,İç Anadolu Bölgesi,304962
-Turkey,Kars,Doğu Anadolu Bölgesi,284923
-Turkey,Bingöl,Doğu Anadolu Bölgesi,281768
-Turkey,Hakkari,Doğu Anadolu Bölgesi,280514
-Turkey,Kırıkkale,İç Anadolu Bölgesi,278703
-Turkey,Yalova,Marmara Bölgesi,276050
-Turkey,Burdur,Akdeniz Bölgesi,267092
-Turkey,Karaman,İç Anadolu Bölgesi,254919
-Turkey,Karabük,Karadeniz Bölgesi,243614
-Turkey,Kırşehir,İç Anadolu Bölgesi,243042
-Turkey,Erzincan,Doğu Anadolu Bölgesi,234431
-Turkey,Bilecik,Marmara Bölgesi,218717
-Turkey,Sinop,Karadeniz Bölgesi,216460
-Turkey,Iğdır,Doğu Anadolu Bölgesi,201314
-Turkey,Bartın,Karadeniz Bölgesi,198979
-Turkey,Çankırı,İç Anadolu Bölgesi,192428
-Turkey,Artvin,Karadeniz Bölgesi,169501
-Turkey,Kilis,Güneydoğu Anadolu Bölgesi,142792
-Turkey,Gümüşane,Karadeniz Bölgesi,141702
-Turkey,Ardahan,Doğu Anadolu Bölgesi,96161
-Turkey,Tunceli,Doğu Anadolu Bölgesi,83443
-Turkey,Bayburt,Karadeniz Bölgesi,81910
-Netherlands,Delden,Overijssel,7390
-Netherlands,Buren,Gelderland,2620
-Netherlands,Bronkhorst,Gelderland,90
-Netherlands,Brouwershaven,Zeeland,1250
-Netherlands,Bredevoort,Gelderland,1450
-Netherlands,Bolsward,Friesland,10085
-Netherlands,Biervliet,Zeeland,1550
+Turkey,Istanbul,Marmara Bolgesi,15462452
+Turkey,Ankara,Ic Anadolu Bolgesi,5663322
+Turkey,Izmir,Ege Bolgesi,4394694
+Turkey,Bursa,Marmara Bolgesi,3101833
+Turkey,Antalya,Akdeniz Bolgesi,2548308
+Turkey,Adana,Akdeniz Bolgesi,2258718
+Turkey,Konya,Ic Anadolu Bolgesi,2250020
+Turkey,Sanliurfa,Guneydogu Anadolu Bolgesi,2118718
+Turkey,Gaziantep,Guneydogu Anadolu Bolgesi,2101157
+Turkey,Kocaeli,Marmara Bolgesi,1997258
+Turkey,Mersin,Akdeniz Bolgesi,1868757
+Turkey,Diyarbakir,Guneydogu Anadolu Bolgesi,1783431
+Turkey,Hatay,Akdeniz Bolgesi,1659320
+Turkey,Manisa,Ege Bolgesi,1450616
+Turkey,Kayseri,Ic Anadolu Bolgesi,1421455
+Turkey,Samsun,Karadeniz Bolgesi,1356079
+Turkey,Balikesir,Marmara Bolgesi,1240285
+Turkey,Kahramanmaras,Akdeniz Bolgesi,1168163
+Turkey,Van,Dogu Anadolu Bolgesi,1149342
+Turkey,Aydin,Ege Bolgesi,1119084
+Turkey,Tekirdag,Marmara Bolgesi,1081065
+Turkey,Sakarya,Marmara Bolgesi,1042649
+Turkey,Denizli,Ege Bolgesi,1040915
+Turkey,Mugla,Ege Bolgesi,1000773
+Turkey,Eskisehir,Ic Anadolu Bolgesi,888828
+Turkey,Mardin,Guneydogu Anadolu Bolgesi,854716
+Turkey,Trabzon,Karadeniz Bolgesi,811901
+Turkey,Malatya,Dogu Anadolu Bolgesi,806156
+Turkey,Ordu,Karadeniz Bolgesi,761400
+Turkey,Erzurum,Dogu Anadolu Bolgesi,758279
+Turkey,Afyonkarahisar,Ege Bolgesi,736912
+Turkey,Sivas,Ic Anadolu Bolgesi,635889
+Turkey,Adiyaman,Guneydogu Anadolu Bolgesi,632459
+Turkey,Batman,Guneydogu Anadolu Bolgesi,620278
+Turkey,Tokat,Karadeniz Bolgesi,597861
+Turkey,Zonguldak,Karadeniz Bolgesi,591204
+Turkey,Elazig,Dogu Anadolu Bolgesi,587960
+Turkey,Kutahya,Ege Bolgesi,576688
+Turkey,Osmaniye,Akdeniz Bolgesi,548556
+Turkey,Canakkale,Marmara Bolgesi,541548
+Turkey,Sirnak,Dogu Anadolu Bolgesi,537762
+Turkey,Agri,Dogu Anadolu Bolgesi,535435
+Turkey,Corum,Karadeniz Bolgesi,530126
+Turkey,Giresun,Karadeniz Bolgesi,448721
+Turkey,Isparta,Akdeniz Bolgesi,440304
+Turkey,Aksaray,Ic Anadolu Bolgesi,423011
+Turkey,Yozgat,Ic Anadolu Bolgesi,419095
+Turkey,Mus,Dogu Anadolu Bolgesi,411117
+Turkey,Edirne,Marmara Bolgesi,407763
+Turkey,Duzce,Karadeniz Bolgesi,395679
+Turkey,Kastamonu,Karadeniz Bolgesi,376377
+Turkey,Usak,Ege Bolgesi,269433
+Turkey,Nigde,Ic Anadolu Bolgesi,362071
+Turkey,Kirklareli,Marmara Bolgesi,361737
+Turkey,Bitls,Dogu Anadolu Bolgesi,350994
+Turkey,Rize,Karadeniz Bolgesi,344359
+Turkey,Amasya,Karadeniz Bolgesi,335494
+Turkey,Siirt,Guneydogu Anadolu Bolgesi,331070
+Turkey,Bolu,Karadeniz Bolgesi,314802
+Turkey,Nevsehir,Ic Anadolu Bolgesi,304962
+Turkey,Kars,Dogu Anadolu Bolgesi,284923
+Turkey,Bingol,Dogu Anadolu Bolgesi,281768
+Turkey,Hakkari,Dogu Anadolu Bolgesi,280514
+Turkey,Kirikkale,Ic Anadolu Bolgesi,278703
+Turkey,Yalova,Marmara Bolgesi,276050
+Turkey,Burdur,Akdeniz Bolgesi,267092
+Turkey,Karaman,Ic Anadolu Bolgesi,254919
+Turkey,Karabuk,Karadeniz Bolgesi,243614
+Turkey,Kirsehir,Ic Anadolu Bolgesi,243042
+Turkey,Erzincan,Dogu Anadolu Bolgesi,234431
+Turkey,Bilecik,Marmara Bolgesi,218717
+Turkey,Sinop,Karadeniz Bolgesi,216460
+Turkey,Igdir,Dogu Anadolu Bolgesi,201314
+Turkey,Bartin,Karadeniz Bolgesi,198979
+Turkey,Cankiri,Ic Anadolu Bolgesi,192428
+Turkey,Artvin,Karadeniz Bolgesi,169501
+Turkey,Kilis,Guneydogu Anadolu Bolgesi,142792
+Turkey,Gumusane,Karadeniz Bolgesi,141702
+Turkey,Ardahan,Dogu Anadolu Bolgesi,96161
+Turkey,Tunceli,Dogu Anadolu Bolgesi,83443
+Turkey,Bayburt,Karadeniz Bolgesi,81910
+Netherlands,Beverwijk,Noord-Holland,41962
+Netherlands,Asperen,Gelderland,3205
+Netherlands,Austerlitz,Utrecht,1705
+Netherlands,Assen,Drenthe,69011
+Netherlands,Axel,Zeeland,7880
+Netherlands,Batenburg,Gelderland,650
+Netherlands,Baarn,Utrecht,24765
 Netherlands,Bergen op Zoom,Noord-Brabant,53245
-Netherlands,Borculo,Gelderland,7775
-Netherlands,Breda,Noord-Brabant,150210
+Netherlands,Arnhem,Gelderland,163072
+Netherlands,Arnemuiden,Zeeland,5360
+Netherlands,Ammerstol,Zuid-Holland,1715
 Netherlands,Zutphen,Gelderland,39705
-Netherlands,Woudrichem,Noord-Brabant,4680
+Netherlands,Ameide,Utrecht,3880
+Netherlands,Zwolle,Overijssel,130173
+Netherlands,Amsterdam,Noord-Holland,871873
+Netherlands,Zevenbergen,Noord-Brabant,14530
+Netherlands,Amersfoort,Utrecht,157871
+Netherlands,Zierikzee,Zeeland,11630
 Netherlands,Zevenaar,Gelderland,25855
 Netherlands,Zaltbommel,Gelderland,13070
-Netherlands,Zaandam,Noord-Holland,78705
-Netherlands,Workum,Friesland,4475
-Netherlands,Zierikzee,Zeeland,11630
-Netherlands,Zevenbergen,Noord-Brabant,14530
+Netherlands,Woudrichem,Noord-Brabant,4680
 Netherlands,Winschoten,Groningen,17750
 Netherlands,Winkel,Noord-Holland,3400
-Netherlands,Willemstad,Noord-Brabant,3095
+Netherlands,Zaandam,Noord-Holland,78705
+Netherlands,Woerden,Utrecht,52851
+Netherlands,Workum,Friesland,4475
 Netherlands,Wilsum,Overijssel,870
+Netherlands,Willemstad,Noord-Brabant,3095
+Netherlands,Wijk bij Duurstede,Utrecht,23887
+Netherlands,Weesp,Noord-Holland,20546
+Netherlands,Wessem,Limburg,2030
 Netherlands,Wieringen,Noord-Holland,8585
 Netherlands,Westwoud,Noord-Holland,1815
 Netherlands,Westkapelle,Zeeland,2630
 Netherlands,Weert,Limburg,44875
+Netherlands,Wageningen,Gelderland,39204
 Netherlands,Waalwijk,Noord-Brabant,33880
 Netherlands,Vreeland,Utrecht,1875
-Netherlands,Wessem,Limburg,2030
 Netherlands,Vollenhove,Overijssel,4295
+Netherlands,Vlissingen,Zeeland,44264
+Netherlands,Vlaardingen,Zuid-Holland,74124
 Netherlands,Vianen,Utrecht,16455
 Netherlands,Venlo,Limburg,68575
 Netherlands,Veere,Zeeland,1625
 Netherlands,Valkenburg,Limburg,10500
 Netherlands,Tilburg,Noord-Brabant,199185
-Netherlands,Thorn,Limburg,2490
+Netherlands,Tiel,Gelderland,41932
 Netherlands,Tholen,Zeeland,8175
+Netherlands,Thorn,Limburg,2490
+Netherlands,Utrecht,Utrecht,358974
 Netherlands,Terneuzen,Zeeland,25405
+Netherlands,Texel,Noord-Holland,13733
 Netherlands,Terborg,Gelderland,4690
-Netherlands,Susteren,Limburg,7995
 Netherlands,Steenwijk,Overijssel,17115
 Netherlands,Steenbergen,Noord-Brabant,13340
 Netherlands,Stavoren,Friesland,965
+Netherlands,Susteren,Limburg,7995
 Netherlands,Staverden,Gelderland,30
 Netherlands,Sneek,Friesland,33590
 Netherlands,Sluis,Zeeland,2350
 Netherlands,Sloten,Friesland,710
+Netherlands,Situering,Noord-Brabant,111025
+Netherlands,Sint Anna ter Muiden,Zeeland,50
 Netherlands,Sittard,Limburg,36895
 Netherlands,Sint-Oedenrode,Noord-Brabant,18360
-Netherlands,Sint Anna ter Muiden,Zeeland,50
-Netherlands,Schoonhoven,Zuid-Holland,13230
 Netherlands,Sint-Maartensdijk,Zeeland,3440
-Netherlands,Situering,Noord-Brabant,111025
 Netherlands,s-Heerenberg,Gelderland,8635
+Netherlands,s-Gravenzande,Zuid-Holland,22425
+Netherlands,Schoonhoven,Zuid-Holland,13230
+Netherlands,Schiedam,Zuid-Holland,79393
 Netherlands,Schagen,Noord-Holland,19025
+Netherlands,Rotterdam,Zuid-Holland,588490
 Netherlands,Roermond,Limburg,41975
 Netherlands,Rijssen,Overijssel,28815
-Netherlands,Rotterdam,Zuid-Holland,588490
-Netherlands,Ravenstein,Noord-Brabant,3060
 Netherlands,Philippine,Zeeland,2085
-Netherlands,Oss,Noord-Brabant,58550
 Netherlands,Ootmarsum,Overijssel,4455
+Netherlands,Rhenen,Utrecht,20220
+Netherlands,Ravenstein,Noord-Brabant,3060
+Netherlands,Oudewater,Utrecht,10143
+Netherlands,Oss,Noord-Brabant,58550
 Netherlands,Oosterhout,Noord-Brabant,50720
 Netherlands,Oostburg,Zeeland,4650
 Netherlands,Ommen,Overijssel,12835
-Netherlands,s-Gravenzande,Zuid-Holland,22425
 Netherlands,Oisterwijk,Noord-Brabant,20210
+Netherlands,Oldenzaal,Overijssel,31692
+Netherlands,Nijmegen,Gelderland,177605
 Netherlands,Nijkerk,Gelderland,29900
 Netherlands,Nieuwstadt,Limburg,3260
-Netherlands,Naarden,Noord-Holland,17555
 Netherlands,Nieuwpoort,Zuid-Holland,1410
-Netherlands,Monnickendam,Noord-Holland,9440
-Netherlands,Montfort,Limburg,3130
-Netherlands,Middelburg,Zeeland,42190
+Netherlands,Naarden,Noord-Holland,17555
 Netherlands,Muiden,Noord-Holland,4055
+Netherlands,Montfort,Limburg,3130
+Netherlands,Montfoort,Utrecht,13868
+Netherlands,Monnickendam,Noord-Holland,9440
+Netherlands,Middelburg,Zeeland,42190
+Netherlands,Maassluis,Zuid-Holland,33696
 Netherlands,Maasbommel,Gelderland,1345
+Netherlands,Meppel,Drenthe,34506
+Netherlands,Megen,Noord-Brabant,1740
 Netherlands,Lochem,Gelderland,13545
 Netherlands,Medemblik,Noord-Holland,8505
+Netherlands,Maastricht,Limburg,119447
+Netherlands,Leiden,Zuid-Holland,124428
 Netherlands,Leerdam,Utrecht,18945
-Netherlands,Kessel,Limburg,4155
+Netherlands,Kortgene,Zeeland,1910
 Netherlands,Klundert,Noord-Brabant,5890
-Netherlands,Kampen,Overijssel,37595
 Netherlands,Laag-Keppel,Gelderland,580
+Netherlands,Leeuwarden,Friesland,93765
+Netherlands,Kessel,Limburg,4155
+Netherlands,Kampen,Overijssel,37595
 Netherlands,IJzendijke,Zeeland,2470
+Netherlands,Hoorn,Noord-Holland,73769
+Netherlands,IJsselstein,Utrecht,33684
+Netherlands,Huissen,Gelderland,19570
 Netherlands,IJlst,Friesland,3015
 Netherlands,Hulst,Zeeland,10985
-Netherlands,Leeuwarden,Friesland,93765
-Netherlands,Hindeloopen,Friesland,850
 Netherlands,Heukelum,Gelderland,2280
-Netherlands,Heusden,Noord-Brabant,1325
-Netherlands,Huissen,Gelderland,19570
-Netherlands,Heenvliet,Zuid-Holland,2475
 Netherlands,Hem,Noord-Holland,1550
-Netherlands,Megen,Noord-Brabant,1740
-Netherlands,Kortgene,Zeeland,1910
+Netherlands,Hindeloopen,Friesland,850
+Netherlands,Helmond,Noord-Brabant,92979
+Netherlands,Heenvliet,Zuid-Holland,2475
+Netherlands,Hattem,Gelderland,12273
+Netherlands,Heusden,Noord-Brabant,1325
 Netherlands,Hasselt,Overijssel,7385
-Netherlands,Harlingen,Friesland,14810
 Netherlands,Hardenberg,Overijssel,19675
+Netherlands,Harlingen,Friesland,14810
+Netherlands,Harderwijk,Gelderland,48739
 Netherlands,Haastrecht,Zuid-Holland,4370
 Netherlands,Groenlo,Gelderland,9860
+Netherlands,Haarlem,Noord-Holland,162177
+Netherlands,Groningen,Groningen,202900
 Netherlands,Grave,Noord-Brabant,8580
 Netherlands,Gramsbergen,Overijssel,3180
 Netherlands,Grafhorst,Overijssel,1030
-Netherlands,Groningen,Groningen,202900
+Netherlands,Gorinchem,Zuid-Holland,37456
+Netherlands,Gouda,Zuid-Holland,73936
 Netherlands,Goor,Overijssel,12155
-Netherlands,Goes,Zeeland,28770
-Netherlands,Goedereede,Zuid-Holland,2295
 Netherlands,Gennep,Limburg,9285
 Netherlands,Genemuiden,Overijssel,10370
 Netherlands,Gendt,Gelderland,7285
+Netherlands,Goes,Zeeland,28770
 Netherlands,Geervliet,Zuid-Holland,1620
+Netherlands,Goedereede,Zuid-Holland,2295
 Netherlands,Geertruidenberg,Noord-Brabant,7035
 Netherlands,Franeker,Friesland,12780
+Netherlands,Eembrugge,Utrecht,130
+Netherlands,Enschede,Overijssel,159369
+Netherlands,Enkhuizen,Noord-Holland,18632
 Netherlands,Elburg,Gelderland,12275
-Netherlands,Edam,Noord-Holland,6900
 Netherlands,Echt,Limburg,14675
+Netherlands,Eindhoven,Noord-Brabant,235923
+Netherlands,Eemnes,Utrecht,9407
+Netherlands,Dordrecht,Zuid-Holland,119146
+Netherlands,Edam,Noord-Holland,6900
 Netherlands,Domburg,Zeeland,1660
-Netherlands,Doetinchem,Gelderland,45650
 Netherlands,Dokkum,Friesland,12745
+Netherlands,Doetinchem,Gelderland,45650
+Netherlands,Delft,Zuid-Holland,103322
+Netherlands,Delden,Overijssel,7390
 Netherlands,Deventer,Overijssel,81545
-Netherlands,Batenburg,Gelderland,650
-Netherlands,Asperen,Gelderland,3205
-Netherlands,Austerlitz,Utrecht,1705
-Netherlands,Arnemuiden,Zeeland,5360
+Netherlands,Doesburg,Gelderland,11096
+Netherlands,Culemborg,Gelderland,29302
+Netherlands,Coevorden,Drenthe,35455
+Netherlands,Buren,Gelderland,2620
+Netherlands,Bredevoort,Gelderland,1450
+Netherlands,Brielle,Zuid-Holland,17549
+Netherlands,Bunschoten,Utrecht,22186
+Netherlands,Brouwershaven,Zeeland,1250
+Netherlands,Bronkhorst,Gelderland,90
+Netherlands,Breda,Noord-Brabant,150210
+Netherlands,Borculo,Gelderland,7775
+Netherlands,Bolsward,Friesland,10085
+Netherlands,Biervliet,Zeeland,1550
+Netherlands,Almelo,Overijssel,73108
 Netherlands,Alkmaar,Noord-Holland,91035
 Netherlands,Aardenburg,Zeeland,2520
-Netherlands,Axel,Zeeland,7880
 Netherlands,Abbekerk,Noord-Holland,2070
-Netherlands,Ammerstol,Zuid-Holland,1715
-Netherlands,Ameide,Utrecht,3880
