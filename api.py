@@ -16,7 +16,7 @@ class Weather:
             temp=int(response['main']['temp']-273.15)
             description=response['weather'][0]['description']
             icon=response['weather'][0]['icon']
-            information={city_name,country,temp,description,icon}
+            information=[city_name,country,temp,description,icon] #here ,we need ordered information,sozluk olursa karisik sira
             return information
            
 
@@ -27,5 +27,5 @@ class Weather:
         
 
 info=Weather()
-print(info.get_weather('Amsterdam'))
+print(info.get_weather('New York City'))
     
