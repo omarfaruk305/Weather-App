@@ -31,9 +31,9 @@ CREATE TABLE "city" (
 """
 conn = psycopg2.connect(
     host="localhost",
-    database="w_application",
+    database="weather_application",
     user="postgres",
-    password="Alvo1.")
+    password="1")
 cur = conn.cursor()
 
 
@@ -124,4 +124,3 @@ try:
 except (Exception) as error:
     print(error)
 
-print(get_city_information("Ankara"))
