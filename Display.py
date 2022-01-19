@@ -42,7 +42,7 @@ class UI(QtWidgets.QMainWindow):
             parameters = api.info.get_weather(f'{cityname}')
             self.pixmap = QPixmap(f"image\\{parameters[4]}.png")
             self.label.setPixmap(self.pixmap)
-            self.code.setText(f"{parameters[0]}, {parameters[1]}")
+            self.code.setText(f"on {parameters[5]}, in {parameters[0]},  {parameters[1]}")
             self.degree.setText(f"{parameters[2]}")
             self.description.setText(f"{parameters[3].title()}")
         except Exception as a:
@@ -51,13 +51,13 @@ class UI(QtWidgets.QMainWindow):
     def exception(self):
         self.code_2.setText("Invalid city name")
         self.code.setText(f"")
-        self.description.setText(f"<<--Check Table")
+        self.description.setText(f"<<-- Table")
         self.cityname_gui.setText("-")
         self.provincename_gui.setText("-")
         self.population_gui.setText("-")
         self.pixmap = QPixmap()  # derec resmi
         self.label.setPixmap(self.pixmap)
-        self.degree.setText("-")
+        self.degree.setText("")
 
     def set_country_table(self, country_name):
         row = 0
@@ -65,8 +65,7 @@ class UI(QtWidgets.QMainWindow):
         for i in country_name:
             self.tableWidget.setItem(row, 0, QtWidgets.QTableWidgetItem(i[0]))
             self.tableWidget.setItem(row, 1, QtWidgets.QTableWidgetItem(i[1]))
-            self.tableWidget.setItem(
-                row, 2, QtWidgets.QTableWidgetItem(str(i[2])))
+            self.tableWidget.setItem(row, 2, QtWidgets.QTableWidgetItem(str(i[2])))
             row += 1
 
     def TABLO(self, konum, y):
@@ -101,19 +100,21 @@ class UI(QtWidgets.QMainWindow):
         self.set_country_table(display_table)
 
     def revert(self):
-        self.tableWidget.clearContents()
+        self.tableWidget.clearContents()#cleans table,
+        self.tableWidget.setRowCount(0)
+        self.tableWidget.setColumnCount(3)#3 column remain
         self.pixmap3 = QPixmap("image\sky.jpeg")
         self.label_7.setPixmap(self.pixmap3)
         self.degree.setText("-")
 
         self.code.setText("")
-        self.description.setText(f"<<--Check Table")
+        self.description.setText(f"")
         self.cityname_gui.setText("-")
         self.provincename_gui.setText("-")
         self.population_gui.setText("-")
         self.pixmap = QPixmap()  # derec resmi
         self.label.setPixmap(self.pixmap)
-        self.degree.setText("-")
+        self.degree.setText("")
         self.lineEdit.setText("City Name")
 
 

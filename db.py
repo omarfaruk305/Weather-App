@@ -33,7 +33,7 @@ conn = psycopg2.connect(
     host="localhost",
     database="weather_application",
     user="postgres",
-    password="1")
+    password="Alvo1.")
 cur = conn.cursor()
 
 

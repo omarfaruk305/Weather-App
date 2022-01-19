@@ -551,16 +551,16 @@ background-color: rgba(255, 255, 255,20%);</string>
    <widget class="QLabel" name="code">
     <property name="geometry">
      <rect>
-      <x>1050</x>
+      <x>620</x>
       <y>760</y>
-      <width>171</width>
+      <width>601</width>
       <height>41</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <family>Berlin Sans FB</family>
-      <pointsize>14</pointsize>
+      <pointsize>16</pointsize>
      </font>
     </property>
     <property name="text">
