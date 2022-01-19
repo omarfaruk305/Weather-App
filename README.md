@@ -35,4 +35,4 @@
 
 ## Before start 
 
-*Create a database and change connection information in db.py file.
+*Create a database and change connection information in db.py file. Then run from main file .
