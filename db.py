@@ -3,38 +3,42 @@ from tabnanny import check
 import psycopg2
 import csv
 
-"""
-CREATE TABLE "country" (
-  "id" serial,
-  "name" varchar(50),
-  PRIMARY KEY ("id")
-);
 
-CREATE TABLE "region" (
-  "id" serial,
-  "country_id" int,
-  "name" varchar(50),
-  PRIMARY KEY ("id"),
-  FOREIGN KEY ("country_id") REFERENCES "country"("id")
-);
-
-CREATE TABLE "city" (
-  "id" serial,
-  "region_id" int,
-  "name" varchar(50),
-  "population" int,
-  PRIMARY KEY ("id"),
-  FOREIGN KEY ("region_id") REFERENCES "region"("id")
-);
-
-
-"""
 conn = psycopg2.connect(
     host="localhost",
     database="weather_application",
     user="postgres",
     password="Alvo1.")
 cur = conn.cursor()
+
+
+def create_table():
+    sql_query = '''
+    CREATE TABLE if not exists  "country" (
+    "id" serial,
+    "name" varchar(50),
+    PRIMARY KEY ("id")
+    );
+
+    CREATE TABLE if not exists "region" (
+    "id" serial,
+    "country_id" int,
+    "name" varchar(50),
+    PRIMARY KEY ("id"),
+    FOREIGN KEY ("country_id") REFERENCES "country"("id")
+    );
+
+    CREATE TABLE if not exists  "city" (
+    "id" serial,
+    "region_id" int,
+    "name" varchar(50),
+    "population" int,
+    PRIMARY KEY ("id"),
+    FOREIGN KEY ("region_id") REFERENCES "region"("id")
+    );'''
+    cur.execute(sql_query)
+    conn.commit()
+    insert_alldata()
 
 
 def insert_country(country_name):
@@ -117,10 +121,9 @@ where ci.name = '{city_name}'
     return info
 
 
-insert_alldata()
+create_table()
 
 try:
     cur = conn.cursor()
 except (Exception) as error:
     print(error)
-
