@@ -3,7 +3,8 @@
 ## About Project 
 
 - This is a weather application in real time as it seems on the photo.
-![image](https://user-images.githubusercontent.com/70334899/151149294-c0fa456d-6d6c-4cd7-a639-a6a0cabefb07.png)
+![image](https://user-images.githubusercontent.com/70334899/151149357-33a18c89-6773-4e6f-8d80-67f3a6a62799.png)
+
 
 - This project was done in [Pycoders Bootcamp](https://github.com/pycoders-nl) as a challenge after Data Gathering module finished. 
 
