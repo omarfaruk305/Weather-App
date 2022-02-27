@@ -8,7 +8,7 @@
 
 - This project was done in [Pycoders Bootcamp](https://github.com/pycoders-nl) as a challenge after Data Gathering module finished. 
 
-- Worked with 4 people as a team.
+- Worked with 4 people as a team with scrum method.
 
 - Created in 1 week.
 
